@@ -1,0 +1,189 @@
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-ExtraLight.woff2') format('woff2'),
+        url('/en/MiSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-Bold.woff2') format('woff2'),
+        url('/en/MiSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-Demibold.woff2') format('woff2'),
+        url('/en/MiSans-Demibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-Heavy.woff2') format('woff2'),
+        url('/en/MiSans-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-Medium.woff2') format('woff2'),
+        url('/en/MiSans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-Light.woff2') format('woff2'),
+        url('/en/MiSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-Normal.woff2') format('woff2'),
+        url('/en/MiSans-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-Regular.woff2') format('woff2'),
+        url('/en/MiSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/en/MiSans-Semibold.woff2') format('woff2'),
+        url('/en/MiSans-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai.woff2') format('woff2'),
+        url('/th/MiSansThai.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-Bold.woff2') format('woff2'),
+        url('/th/MiSansThai-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSans-Thin.woff2') format('woff2'),
+        url('/th/MiSans-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-Semibold.woff2') format('woff2'),
+        url('/th/MiSansThai-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-Medium.woff2') format('woff2'),
+        url('/th/MiSansThai-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-Heavy.woff2') format('woff2'),
+        url('/th/MiSansThai-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-Normal.woff2') format('woff2'),
+        url('/th/MiSansThai-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-Light.woff2') format('woff2'),
+        url('/th/MiSansThai-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-Demibold.woff2') format('woff2'),
+        url('/th/MiSansThai-Demibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-ExtraLight.woff2') format('woff2'),
+        url('/th/MiSansThai-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThaiVF.woff2') format('woff2'),
+        url('MiSansThaiVF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'misans';
+    src: url('/th/MiSansThai-Thin.woff2') format('woff2'),
+        url('/th/MiSansThai-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
