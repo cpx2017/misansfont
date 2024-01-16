@@ -90,45 +90,9 @@
 
 @font-face {
     font-family: 'misans';
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Light.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Light.woff') format('woff');
-    font-weight: 50;
-    font-style: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'misans';
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Normal.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Normal.woff') format('woff');
-    font-weight: 200;
-    font-style: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'misans';
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Regular.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Regular.woff') format('woff');
-    font-weight: 400;
-    font-style: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'misans';
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Medium.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Medium.woff') format('woff');
-    font-weight: 600;
-    font-style: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'misans';
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Demibold.woff2') format('woff2'),
         url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Demibold.woff') format('woff');
-    font-weight: 700;
+    font-weight: 400;
     font-style: bold;
     font-display: swap;
 }
@@ -137,7 +101,7 @@
     font-family: 'misans';
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Semibold.woff2') format('woff2'),
         url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Semibold.woff') format('woff');
-    font-weight: 800;
+    font-weight: 600;
     font-style: bold;
     font-display: swap;
 }
@@ -146,7 +110,7 @@
     font-family: 'misans';
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Bold.woff2') format('woff2'),
         url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/en/MiSans-Bold.woff') format('woff');
-    font-weight: 900;
+    font-weight: 800;
     font-style: bold;
     font-display: swap;
 }
@@ -257,45 +221,9 @@
 
 @font-face {
     font-family: 'misans';
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Light.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Light.woff') format('woff');
-    font-weight: 50;
-    font-style: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'misans';
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Normal.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Normal.woff') format('woff');
-    font-weight: 200;
-    font-style: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'misans';
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai.woff') format('woff');
-    font-weight: 400;
-    font-style: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'misans';
-    src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Medium.woff2') format('woff2'),
-        url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Medium.woff') format('woff');
-    font-weight: 600;
-    font-style: bold;
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'misans';
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Demibold.woff2') format('woff2'),
         url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Demibold.woff') format('woff');
-    font-weight: 700;
+    font-weight: 400;
     font-style: bold;
     font-display: swap;
 }
@@ -304,7 +232,7 @@
     font-family: 'misans';
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Semibold.woff2') format('woff2'),
         url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Semibold.woff') format('woff');
-    font-weight: 800;
+    font-weight: 600;
     font-style: bold;
     font-display: swap;
 }
@@ -313,7 +241,7 @@
     font-family: 'misans';
     src: url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Bold.woff2') format('woff2'),
         url('https://cdn.jsdelivr.net/gh/cpx2017/misansfont@main/th/MiSansThai-Bold.woff') format('woff');
-    font-weight: 900;
+    font-weight: 800;
     font-style: bold;
     font-display: swap;
 }
